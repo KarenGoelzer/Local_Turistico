@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  padding: 0;
+  box-sizing: border-box;
+  width: 1120px;
+  margin: 80px 88px 80px 137px;
+  font-family: 'Poppins', sans-serif;
+  background-color: #F5F4F0;
+
+}
+
+
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+
+ul {
+  list-style-type: disc; /* marcador em forma de bola preenchida */
+  padding-left: 20px;     /* garante espaço para o marcador */
+}
+
+span{
+  color: #E1624F;
+}
+
+img{
+  width: 100%;
+  height: 660px;
+
+}
+
+footer{
+  color: #333333;
+  text-align: center;
+  /* padding-bottom: 48px; */
+}
+
+footer img{
+  vertical-align: middle;
+  display: flex;
+  unicode-bidi: isolate;
+}
